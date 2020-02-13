@@ -1,3 +1,3 @@
 #!/bin/bash 
 
-echo "Whats good" 
+echo "Another change" 
