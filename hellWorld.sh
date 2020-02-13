@@ -1,3 +1,3 @@
 #!/bin/bash 
 
-echo "holla mundo" 
+echo "Whats good" 
